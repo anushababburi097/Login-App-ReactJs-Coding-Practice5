@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.app-content {
+  background-image: radial-gradient(#b5b9ff, #303150);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
